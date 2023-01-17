@@ -1,2 +1,3 @@
 # Modeling-and-simulation
-Modeling differencial equation from Maths work in University
+Modeling differencial equation 
+Project and exercices from career modeling course
